@@ -3,6 +3,7 @@
 
 Tenho 18 anos e comecei no ramo de tecnologia a pouco tempo e estou estudando sobre Frontend.
 
+[![card](https://github-readme-stats.vercel.app/api?username=m1randa22&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![m1randa22](https://github-readme-stats.vercel.app/api/top-langs/?username=m1randa22&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
