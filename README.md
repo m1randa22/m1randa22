@@ -1,7 +1,7 @@
 
 # Olá, eu sou a Ester! 👋
 
-Tenho 18 anos e comecei no ramo de tecnologia a pouco tempo e estou estudando sobre Frontend.
+Tenho 19 anos e estou estudando para ser uma profissional Frontend/Full-Stack.
 
 [![card](https://github-readme-stats.vercel.app/api?username=m1randa22&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
